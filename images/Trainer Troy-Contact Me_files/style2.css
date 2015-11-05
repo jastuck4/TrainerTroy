@@ -1,0 +1,25 @@
+#searchBar{
+	width:30%;
+	background-color:#000000;
+	text-align:right;
+	float:right;
+	padding:4px;
+}
+.search{
+	padding:6px;
+	padding-right:5px;
+}
+#submit{
+	width:50px;
+	background-color:#ffffff;
+	color:#000000;
+	position:relative;
+	margin-left:-15px;
+}
+#searchBar input{
+	border-top-left-radius:8px;
+	border-bottom-left-radius:8px;
+}
+#text{
+	width:200px;
+}

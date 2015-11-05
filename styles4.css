@@ -1,0 +1,30 @@
+#images{
+	height:900px;
+}
+#images iframe{
+	box-shadow:0 3px 3px 3px #000000;
+}
+#images ul{
+	list-style-type:none;
+}
+#images li{
+	display:inline-block;
+}
+#images img:hover{
+	-moz-transform:scale(1.5);
+	-webkit-transform:scale(1.5);
+	z-index:1;
+}
+#testimonials blockquote{
+	background-color:rgba(139,125,123,.6);
+	width:500px;
+	padding:10px;
+	position:relative;
+	z-index:1;
+	margin-left:10%;
+	border-top-right-radius:50px;
+	border-bottom-right-radius:50px;
+}
+#testimonials img{
+	margin-top:-3%;
+}
